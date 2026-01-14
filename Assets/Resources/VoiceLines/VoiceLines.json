@@ -1,0 +1,84 @@
+{
+  "characters": [
+    {
+      "name": "JoseRizal",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    },
+    {
+      "name": "LapuLapu",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    },
+    {
+      "name": "GabrielaSilang",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    },
+    {
+      "name": "FranciscoDagohoy",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.aac","kill":"kill.aac","death":"death.aac"}
+    },
+    {
+      "name": "AntonioLuna",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    },
+    {
+      "name": "MelchoraAquino",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    },
+    {
+      "name": "ApolinarioMabini",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    },
+    {
+      "name": "GregorioDelPilar",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.aac","kill":"kill.aac","death":"death.aac"}
+    },
+    {
+      "name": "ManuelQuezon",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.aac","kill":"kill.aac","death":"death.aac"}
+    },
+    {
+      "name": "MiguelMalvar",
+      "english": {"intro":"intro.wav","kill":"kill.wav","death":"death.wav"},
+      "cebuano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "ilocano": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "spanish": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"},
+      "tagalog": {"intro":"intro.mp3","kill":"kill.mp3","death":"death.mp3"}
+    }
+  ]
+}

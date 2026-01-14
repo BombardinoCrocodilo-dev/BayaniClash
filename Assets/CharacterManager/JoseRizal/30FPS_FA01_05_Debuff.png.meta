@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: 1ff26f8bd4a55b84f878f5c503b35082
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -797288159986271990
+    second: 30FPS_FA01_05_Debuff_0
+  - first:
+      213: -4715971575864776069
+    second: 30FPS_FA01_05_Debuff_1
+  - first:
+      213: -2635367295191661677
+    second: 30FPS_FA01_05_Debuff_2
+  - first:
+      213: 7342261503410066174
+    second: 30FPS_FA01_05_Debuff_3
+  - first:
+      213: 7689796414414269729
+    second: 30FPS_FA01_05_Debuff_4
+  - first:
+      213: 9203857796121227022
+    second: 30FPS_FA01_05_Debuff_5
+  - first:
+      213: 1047813565282647916
+    second: 30FPS_FA01_05_Debuff_6
+  - first:
+      213: 434119372433151617
+    second: 30FPS_FA01_05_Debuff_7
+  - first:
+      213: 1516089220950214331
+    second: 30FPS_FA01_05_Debuff_8
+  - first:
+      213: -982094536243193971
+    second: 30FPS_FA01_05_Debuff_9
+  - first:
+      213: 2325122927891958497
+    second: 30FPS_FA01_05_Debuff_10
+  - first:
+      213: 4681951989456199649
+    second: 30FPS_FA01_05_Debuff_11
+  - first:
+      213: -1730082787531623815
+    second: 30FPS_FA01_05_Debuff_12
+  - first:
+      213: -452857103197310007
+    second: 30FPS_FA01_05_Debuff_13
+  - first:
+      213: 8273588612303716336
+    second: 30FPS_FA01_05_Debuff_14
+  - first:
+      213: 4508892407304200605
+    second: 30FPS_FA01_05_Debuff_15
+  - first:
+      213: 4700111429516020402
+    second: 30FPS_FA01_05_Debuff_16
+  - first:
+      213: 1932150454529354434
+    second: 30FPS_FA01_05_Debuff_17
+  - first:
+      213: 6350384767316196025
+    second: 30FPS_FA01_05_Debuff_18
+  - first:
+      213: -29796055104112185
+    second: 30FPS_FA01_05_Debuff_19
+  - first:
+      213: 2513928243234991789
+    second: 30FPS_FA01_05_Debuff_20
+  - first:
+      213: -74528714979788447
+    second: 30FPS_FA01_05_Debuff_21
+  - first:
+      213: -7965662385497198417
+    second: 30FPS_FA01_05_Debuff_22
+  - first:
+      213: -3627765271758027220
+    second: 30FPS_FA01_05_Debuff_23
+  - first:
+      213: 8872034110488556032
+    second: 30FPS_FA01_05_Debuff_24
+  - first:
+      213: 7155748582527009061
+    second: 30FPS_FA01_05_Debuff_25
+  - first:
+      213: -5792910942548764129
+    second: 30FPS_FA01_05_Debuff_26
+  - first:
+      213: 3755975237911133243
+    second: 30FPS_FA01_05_Debuff_27
+  - first:
+      213: -5883205679867298155
+    second: 30FPS_FA01_05_Debuff_28
+  - first:
+      213: -6492498778144519513
+    second: 30FPS_FA01_05_Debuff_29
+  - first:
+      213: -7841373191419061949
+    second: 30FPS_FA01_05_Debuff_30
+  - first:
+      213: 4880697983008928628
+    second: 30FPS_FA01_05_Debuff_31
+  - first:
+      213: 4766538111595705020
+    second: 30FPS_FA01_05_Debuff_32
+  - first:
+      213: 5978522366094782707
+    second: 30FPS_FA01_05_Debuff_33
+  - first:
+      213: -8871145254192847379
+    second: 30FPS_FA01_05_Debuff_34
+  - first:
+      213: 1129146223812331828
+    second: 30FPS_FA01_05_Debuff_35
+  - first:
+      213: -4531107718682441872
+    second: 30FPS_FA01_05_Debuff_36
+  - first:
+      213: -3648790426934778673
+    second: 30FPS_FA01_05_Debuff_37
+  - first:
+      213: 727686253138308538
+    second: 30FPS_FA01_05_Debuff_38
+  - first:
+      213: 2267877324149144256
+    second: 30FPS_FA01_05_Debuff_39
+  - first:
+      213: -9082765045773158235
+    second: 30FPS_FA01_05_Debuff_40
+  - first:
+      213: -6222687856319236966
+    second: 30FPS_FA01_05_Debuff_41
+  - first:
+      213: -317292512809018327
+    second: 30FPS_FA01_05_Debuff_42
+  - first:
+      213: -2429486158984311480
+    second: 30FPS_FA01_05_Debuff_43
+  - first:
+      213: 6516965282329741933
+    second: 30FPS_FA01_05_Debuff_44
+  - first:
+      213: -3912401921606637428
+    second: 30FPS_FA01_05_Debuff_45
+  - first:
+      213: 3083039513956114787
+    second: 30FPS_FA01_05_Debuff_46
+  - first:
+      213: -2814602639953078606
+    second: 30FPS_FA01_05_Debuff_47
+  - first:
+      213: 7393186789450876185
+    second: 30FPS_FA01_05_Debuff_48
+  - first:
+      213: -1830870465815957929
+    second: 30FPS_FA01_05_Debuff_49
+  - first:
+      213: 8196904617255463212
+    second: 30FPS_FA01_05_Debuff_50
+  - first:
+      213: 8141047407406816421
+    second: 30FPS_FA01_05_Debuff_51
+  - first:
+      213: 5327188109540975449
+    second: 30FPS_FA01_05_Debuff_52
+  - first:
+      213: 820134899864202453
+    second: 30FPS_FA01_05_Debuff_53
+  - first:
+      213: -8110122196870116594
+    second: 30FPS_FA01_05_Debuff_54
+  - first:
+      213: -7393518784090532446
+    second: 30FPS_FA01_05_Debuff_55
+  - first:
+      213: 913885367170175757
+    second: 30FPS_FA01_05_Debuff_56
+  - first:
+      213: -5997176134585492897
+    second: 30FPS_FA01_05_Debuff_57
+  - first:
+      213: 4745699370673640754
+    second: 30FPS_FA01_05_Debuff_58
+  - first:
+      213: -1683851126072654692
+    second: 30FPS_FA01_05_Debuff_59
+  - first:
+      213: 4800020378361734472
+    second: 30FPS_FA01_05_Debuff_60
+  - first:
+      213: 2521115635400452264
+    second: 30FPS_FA01_05_Debuff_61
+  - first:
+      213: 2469255767589773151
+    second: 30FPS_FA01_05_Debuff_62
+  - first:
+      213: -2839164288337299700
+    second: 30FPS_FA01_05_Debuff_63
+  - first:
+      213: -9097573312949954902
+    second: 30FPS_FA01_05_Debuff_64
+  - first:
+      213: 8037063875258445710
+    second: 30FPS_FA01_05_Debuff_65
+  - first:
+      213: 1845375210346737802
+    second: 30FPS_FA01_05_Debuff_66
+  - first:
+      213: -4361043270221847583
+    second: 30FPS_FA01_05_Debuff_67
+  - first:
+      213: 654929360174697987
+    second: 30FPS_FA01_05_Debuff_68
+  - first:
+      213: -4257631158613051944
+    second: 30FPS_FA01_05_Debuff_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09b46884a67fe4f0800000000000000
+      internalID: -797288159986271990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aadb986d08d8eb0800000000000000
+      internalID: -4715971575864776069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3934b65686b4d6bd0800000000000000
+      internalID: -2635367295191661677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef258c6bfe3f4e560800000000000000
+      internalID: 7342261503410066174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d2c3cb815a7ba60800000000000000
+      internalID: 7689796414414269729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0fe305c6ebaabf70800000000000000
+      internalID: 9203857796121227022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff185d2e49a8e00800000000000000
+      internalID: 1047813565282647916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_7
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1865ef7e44d460600800000000000000
+      internalID: 434119372433151617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb649862d1b3a0510800000000000000
+      internalID: 1516089220950214331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875f5ff836ee52f0800000000000000
+      internalID: -982094536243193971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eacd10ebfe744020800000000000000
+      internalID: 2325122927891958497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef58f24782a9f040800000000000000
+      internalID: 4681951989456199649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972f8210fd28df7e0800000000000000
+      internalID: -1730082787531623815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c379ed2dd027b9f0800000000000000
+      internalID: -452857103197310007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff741ee101b1d270800000000000000
+      internalID: 8273588612303716336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91a2db51cdc29e30800000000000000
+      internalID: 4508892407304200605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba4e0161762a3140800000000000000
+      internalID: 4700111429516020402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cae4d6f99060da10800000000000000
+      internalID: 1932150454529354434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_18
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bafee2dc49112850800000000000000
+      internalID: 6350384767316196025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9bfcf45a4269ff0800000000000000
+      internalID: -29796055104112185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daee7d8fa6443e220800000000000000
+      internalID: 2513928243234991789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1693012578837fef0800000000000000
+      internalID: -74528714979788447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0bfb7a348447190800000000000000
+      internalID: -7965662385497198417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c264d50c4b697adc0800000000000000
+      internalID: -3627765271758027220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002b1d6740ccf1b70800000000000000
+      internalID: 8872034110488556032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521078b4c635e4360800000000000000
+      internalID: 7155748582527009061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a58ed90327b9fa0800000000000000
+      internalID: -5792910942548764129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c3bd03497ef1430800000000000000
+      internalID: 3755975237911133243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 30FPS_FA01_05_Debuff_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef2feca97aa5ea0800000000000000
+      internalID: -5883205679867298155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f60830a7f9934644baa3c02e8276d03
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":6.0},"gridSpriteSize":{"x":192.0,"y":192.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      30FPS_FA01_05_Debuff_0: -797288159986271990
+      30FPS_FA01_05_Debuff_1: -4715971575864776069
+      30FPS_FA01_05_Debuff_10: 2325122927891958497
+      30FPS_FA01_05_Debuff_11: 4681951989456199649
+      30FPS_FA01_05_Debuff_12: -1730082787531623815
+      30FPS_FA01_05_Debuff_13: -452857103197310007
+      30FPS_FA01_05_Debuff_14: 8273588612303716336
+      30FPS_FA01_05_Debuff_15: 4508892407304200605
+      30FPS_FA01_05_Debuff_16: 4700111429516020402
+      30FPS_FA01_05_Debuff_17: 1932150454529354434
+      30FPS_FA01_05_Debuff_18: 6350384767316196025
+      30FPS_FA01_05_Debuff_19: -29796055104112185
+      30FPS_FA01_05_Debuff_2: -2635367295191661677
+      30FPS_FA01_05_Debuff_20: 2513928243234991789
+      30FPS_FA01_05_Debuff_21: -74528714979788447
+      30FPS_FA01_05_Debuff_22: -7965662385497198417
+      30FPS_FA01_05_Debuff_23: -3627765271758027220
+      30FPS_FA01_05_Debuff_24: 8872034110488556032
+      30FPS_FA01_05_Debuff_25: 7155748582527009061
+      30FPS_FA01_05_Debuff_26: -5792910942548764129
+      30FPS_FA01_05_Debuff_27: 3755975237911133243
+      30FPS_FA01_05_Debuff_28: -5883205679867298155
+      30FPS_FA01_05_Debuff_3: 7342261503410066174
+      30FPS_FA01_05_Debuff_4: 7689796414414269729
+      30FPS_FA01_05_Debuff_5: 9203857796121227022
+      30FPS_FA01_05_Debuff_6: 1047813565282647916
+      30FPS_FA01_05_Debuff_7: 434119372433151617
+      30FPS_FA01_05_Debuff_8: 1516089220950214331
+      30FPS_FA01_05_Debuff_9: -982094536243193971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

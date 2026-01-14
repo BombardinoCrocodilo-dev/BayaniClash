@@ -1,0 +1,44 @@
+{
+  "cutscenes": [
+    {
+      "name": "Jose Rizal",
+      "file": "JoseRizalCutscene.mp4"
+    },
+    {
+      "name": "Gabriela Silang",
+      "file": "GabrielaSilangCutscene.mp4"
+    },
+    {
+      "name": "Melchora Aquino",
+      "file": "MelchoraAquinoCutscene.mp4"
+    },
+    {
+      "name": "LapuLapu",
+      "file": "LapuLapuCutscene.mp4"
+    },
+    {
+      "name": "Miguel Malvar",
+      "file": "MiguelMalvarCutscene.mp4"
+    },
+    {
+      "name": "Manuel L Quezon",
+      "file": "ManuelLQuezonCutscene.mp4"
+    },
+    {
+      "name": "Apolinario Mabini",
+      "file": "ApolinarioMabiniCutscene.mp4"
+    },
+    {
+      "name": "Gregorio Del Pilar",
+      "file": "GregorioDelPilarCutscene.mp4"
+    },
+    {
+      "name": "Antonio Luna",
+      "file": "AntonioLunaCutscene.mp4"
+    },
+    {
+      "name": "Francisco Dagohoy",
+      "file": "FranciscoDagohoyCutscene.mp4"
+    }
+  ]
+}
